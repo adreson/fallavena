@@ -1,4 +1,7 @@
 # fallavena
 
-nova fonte gratuita
-em breve, com correções
+Free for use. 
+Fallavena Script is based on brush lettering for visual comunication.
+
+
+<!-- adreson / Estranho Tipo -->
